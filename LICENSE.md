@@ -1,4 +1,4 @@
-# 
+# Seguro BugHunter guia. Baixe e instale com pronto para integração e documentação detalhada — rápido, seguro e fácil de usar.
 
 
 
